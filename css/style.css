@@ -151,7 +151,9 @@ header {
   border-bottom: 1px solid #ccc;
   text-align: center;
 }
-
+#nav nav {
+  border-left: 1px solid #ccc;
+}
 
 /*////////// LOGO //////////*/
 
